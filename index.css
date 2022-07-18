@@ -1,0 +1,129 @@
+.first-sec {
+    display: flex;
+    width: 92%;
+}
+
+
+body p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.orang-color {
+    color: tomato;
+}
+
+.FO-titel {
+    font-family: 'Bree Serif', serif;
+    font-size: 40px;
+}
+
+.food-order img {
+    width: 110%;
+    margin-right: 10%;
+
+}
+
+#FO-half-text {
+    margin-left: 13%;
+}
+
+.food-order p {
+    font-size: 30px;
+}
+
+.food-order {
+    width: 50%;
+}
+
+.order-food-button {
+    text-decoration: none;
+    font-size: large;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+
+
+}
+
+.flexible {
+    margin-bottom: 100px;
+}
+
+.second-sec {
+    display: flex;
+    width: 100%;
+    background-image: url(7.png);
+
+}
+
+.second-sec-img {
+    width: 100%;
+    margin-left: 15%;
+}
+
+.second-sec-text {
+    width: 100%;
+    font-size: medium;
+    margin-right: 15%;
+    margin-bottom: 5%;
+}
+
+.third-sec-top-text {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+
+.third-sec {}
+
+.third-sec-parent {
+    display: flex;
+    box-shadow: 10px 10px 30px gray;
+
+}
+
+.third-sec-child {
+    width: 50%;
+    margin: 0 5% 5% 5%;
+    box-shadow: 10px 10px 40px grey;
+    border: 5px solid white;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.third-sec-child img {
+    width: 70%;
+    margin-left: 10%;
+}
+
+.third-sec-end {
+    display: flex;
+    width: 100%;
+
+    margin-top: 50px;
+    box-shadow: 10px 10px 30px;
+}
+
+#trd-s-e-1 {
+    text-align: center;
+    width: 33%;
+}
+
+#trd-s-e-2 {
+    text-align: center;
+    width: 33%;
+}
+
+#trd-s-e-3 {
+    text-align: center;
+    width: 33%;
+}
+
+footer {
+    background-color: black;
+     padding-top: 2.5%; 
+     padding-bottom: 2.5%;  
+    text-align: center;
+}
